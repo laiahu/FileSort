@@ -7,4 +7,8 @@ public class BuyerInfo {
   public String getUserName(){
   	return userName;
   }
+  
+    public String getUserPwd(){
+  	return userPwd;
+  }
 }
